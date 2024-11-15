@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <p className="text-danger">Hola mundo</p>
+
     </>
   )
 }
